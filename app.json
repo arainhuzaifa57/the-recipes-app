@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "the-meals-app",
-    "slug": "the-meals-app",
+    "name": "Find Your Meal",
+    "slug": "find-your-meal",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
